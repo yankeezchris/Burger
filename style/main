@@ -3,8 +3,7 @@
     padding: 0;
 }
 body {
-    font-family: 'Lato', sans-serif;
-    font-family: 'Nunito Sans', sans-serif;
+     font-family: 'Nunito Sans', sans-serif;
 }
 .main {
     background: linear-gradient(180deg, #0C4C7B -100%, #1E2F40 100%);
@@ -63,7 +62,8 @@ a {
     width: 432px;
     height: 100%;
     background: linear-gradient(2.42deg, #F37335 -19.6%, #FBB731 100.79%, #FDC830 100.79%);
-img {
+}
+    img {
     width: 829px;
     position: absolute;
     right: -168px;
